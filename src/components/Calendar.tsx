@@ -31,7 +31,7 @@ const appointments = [
     doctor: "Dr. Kevin Djones",
     icon: (
       <img
-        src="/src/assets/muscle.png"
+        src="/dist/assets/muscle.png"
         alt="Muscle"
         className="w-5 h-5 object-contain"
       />
