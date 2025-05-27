@@ -23,7 +23,7 @@ const BodyVisualization = () => {
       <div className="flex-1 relative flex items-center justify-center">
         <div className="relative">
           <motion.img
-            src="/dist/assets/anatomy-placeholder.png"
+            src="/assets/anatomy-placeholder.png"
             alt="Human body anatomy"
             className="h-[350px] object-contain mx-auto"
             initial={{ opacity: 0 }}
@@ -60,7 +60,7 @@ const BodyVisualization = () => {
               whileHover={{ scale: 1.05 }}
             >
               <img
-                src="/dist/assets/leg.png"
+                src="/assets/leg.png"
                 alt="Leg"
                 className="w-4 h-4 object-contain"
               />{" "}

@@ -87,7 +87,7 @@ const Dashboard = () => {
                         date="26 Oct 2021"
                         progress={82}
                         color="accent-purple"
-                        icon="/dist/assets/lungs.png"
+                        icon="/assets/lungs.png"
                         isImage={true}
                       />
                     </div>
